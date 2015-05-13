@@ -11,6 +11,7 @@ public class IOSLauncher extends IOSApplication.Delegate {
     @Override
     protected IOSApplication createApplication() {
         IOSApplicationConfiguration config = new IOSApplicationConfiguration();
+        //comentario push prueba
         return new IOSApplication(new ZBGame(), config);
     }
 
