@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/ZombieBird-core" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/1.2.0/288da9e771e95fcc6a58f9af45a4c85effbac7d1/robovm-rt-1.2.0-sources.jar" kind="lib" path="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/1.2.0/acc15cdcbf104c45a8f7152fec522e14117d7820/robovm-rt-1.2.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/1.2.0/7afc7896b819439716c50cbe731d19e07fd92f26/robovm-cocoatouch-1.2.0-sources.jar" kind="lib" path="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/1.2.0/80b0820fe4e00c62302d5c487b3afa839061356a/robovm-cocoatouch-1.2.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.6.0/931f62dab246301fe4de69d3733707e91d37ed1f/gdx-backend-robovm-1.6.0-sources.jar" kind="lib" path="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.6.0/2e62b8efb00b5563778291599cd7b2c12edba777/gdx-backend-robovm-1.6.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.0/67906739c5b297a8254c2f591395183c6d0de539/gdx-1.6.0-sources.jar" kind="lib" path="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.0/b7ac8e495b4e4828a30fa97654a17bdfb9f93734/gdx-1.6.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/1.2.0/61dee172348ebed15db74e756cdec1f91d5a6937/robovm-objc-1.2.0-sources.jar" kind="lib" path="C:/Users/Thurisaz/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/1.2.0/12c7cfb9ac50b8809bf436c24a2358f1be5f18e8/robovm-objc-1.2.0.jar" exported="true"/>
+</classpath>
