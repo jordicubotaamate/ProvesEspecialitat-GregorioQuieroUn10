@@ -1,0 +1,22 @@
+[33mac1e144[m HEAD@{0}: reset: moving to 219b64f9f1f2d051b3048dadcf4bcd1274033543^
+[33m219b64f[m HEAD@{1}: commit: asco pc
+[33mac1e144[m HEAD@{2}: pull --progress --prune origin master: Fast-forward
+[33mc655d07[m HEAD@{3}: reset: moving to dc2ed6561a6df5a30b46aceec02377675a81baa8^
+[33mdc2ed65[m HEAD@{4}: rebase: aborting
+[33mac1e144[m HEAD@{5}: pull --progress --rebase --prune origin master: checkout ac1e144c418d40e6b490beab8eaaec120d2ed300
+[33mdc2ed65[m HEAD@{6}: commit: asco pc
+[33mc655d07[m HEAD@{7}: commit: asdfgh
+[33me51deec[m HEAD@{8}: merge branch 'master' of https://github.com/jordicubotaamate/ProvesEspecialitat-GregorioQuieroUn10.git: Fast-forward
+[33ma426fd6[m HEAD@{9}: commit: wsadf
+[33m971f00f[m HEAD@{10}: rebase finished: returning to refs/heads/master
+[33m971f00f[m HEAD@{11}: pull --progress --rebase --prune origin master: checkout 971f00fec7d671cea56ced2138a72dbf2e933ced
+[33m27e4173[m HEAD@{12}: commit: Prova 2
+[33m087c586[m HEAD@{13}: rebase finished: returning to refs/heads/master
+[33m087c586[m HEAD@{14}: pull --progress --rebase --prune origin master: checkout 087c586cc2554f7cb57dc46cd736cfb9c4f5d4ac
+[33m43e47b9[m HEAD@{15}: revert: Revert "unknown commit :3"
+[33md9b2ca3[m HEAD@{16}: commit: unknown commit :3
+[33m79c8149[m HEAD@{17}: commit: Ordenación y mi juego
+[33m01e33ae[m HEAD@{18}: commit: Update
+[33m3b1f635[m HEAD@{19}: commit: Prueba
+[33m16190ea[m HEAD@{20}: commit: I'm grown!
+[33mc0c6f19[m HEAD@{21}: clone: from https://github.com/jordicubotaamate/ProvesEspecialitat-GregorioQuieroUn10.git
